@@ -13,10 +13,6 @@
 
 <br>
 
-<div align="center">
-  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-</div>
-
 ---
 
 ### About Me
@@ -30,15 +26,7 @@
 ### 🛠️ Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,tailwind,mongodb,postgres,git,docker" height="50" />
-</div>
-
----
-
-### 📊 Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,tailwind,mongodb,git," height="50" />
 </div>
 
 ---
