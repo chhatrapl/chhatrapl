@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chhatrpal-yadaw-854424373/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:chhatrpalyadaw9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 <br>
